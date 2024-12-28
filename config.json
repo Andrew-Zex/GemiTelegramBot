@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "GeminiToken": "",
+    "OpenAIToken": "",
+    "KadinskiAPIKey": "",
+    "KadinskiSecret": "",
+    "KadinskiURI": "",
+    "bot_version": "v0.1.1",
+    "codename": "Friederich Gauss"
+}
